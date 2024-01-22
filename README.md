@@ -1,1 +1,4 @@
-### riotcazorla 2034-12-12 68.183.229.51
+## Untuk izin IP
+Buka file ipmini ==> Edit inPlace
+
+<code> ### NAMA<spasi>TAHUN-BULAN-TANGGAL<spasi>IP_VPS </code>
